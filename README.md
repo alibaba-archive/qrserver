@@ -1,0 +1,2 @@
+# qrserver
+Generate qrcode 
